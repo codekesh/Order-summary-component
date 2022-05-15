@@ -33,7 +33,7 @@ Users should be able to:
 Above screenshot is of mobile view. That shows how it was design.
 
 ![Desktop View](./Screenshot_design.png)
-Above screenshot is of design view. That shows how it was design.
+Above screenshot is of desktop view. That shows how it was design.
 
 ### Links
 
