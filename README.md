@@ -37,8 +37,8 @@ Above screenshot is of design view. That shows how it was design.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here for solution](https://github.com/codekesh/Order-summary-component.git)
+- Live Site URL: [Click here for live site](https://codekesh.github.io/Order-summary-component/)
 
 ## My process
 
