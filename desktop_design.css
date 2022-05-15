@@ -1,0 +1,121 @@
+body{
+    background: url('/order-summary-component-main/images/pattern-background-desktop.svg') no-repeat;
+    background-color: hsl(225, 100%, 94%);
+    background-size: 100%;
+}
+
+#card{
+    background:white;
+    width: 28%;
+    margin: auto;
+    border-radius: 15px;
+    position: relative;
+    top: 80px;
+}
+
+.hero img{
+    width: 100%;
+    display: block;
+    margin: auto;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top: 9px;
+}
+
+.para{
+    text-align: center;
+    padding: 5px 54px;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+    padding: 13px 38px;
+    font-size: 15px;
+    margin: 16px 0px;
+}
+
+.plan{
+    display: flex;
+    padding: 10px 10px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: hsl(225, 100%, 98%);
+}
+
+.plan img{
+    height: 40px;
+}
+
+span:nth-child(1){
+    position: relative;
+    top: -3px;
+    padding: 0px 20px;
+    font-weight: 700;
+}
+
+span:nth-child(2){
+    position: relative;
+    top: 8px;
+    padding-left: 95px;
+    text-decoration: underline;
+    color: hsl(245, 75%, 52%);
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#package{
+    position: relative;
+    bottom: 11px;
+    padding: 0px 20px;
+}
+
+.button1{
+    padding: 10px 0px;
+    text-align: center;
+    background-color: hsl(245, 75%, 52%);
+    border-radius: 0.6em;
+    color: hsl(225, 100%, 98%);
+    margin: 13px 0px;
+    font-weight: 600;
+    box-shadow: 0px 10px 25px hsl(224, 23%, 55%);
+}
+
+.button2{
+    padding: 15px 0px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.font{
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.dablue{
+    color: hsl(223, 47%, 23%);
+}
+
+.deblue{
+    color: hsl(224, 23%, 55%);
+}
+
+span:nth-child(2):hover{
+    cursor: pointer;
+    color: hsl(245, 100%, 71%);
+    text-decoration: none;
+}
+
+.button1:hover{
+    cursor: pointer;
+    background-color: hsl(245, 100%, 69%);
+}
+
+.button2:hover{
+    cursor: pointer;
+    color: hsl(223, 47%, 23%);
+}
