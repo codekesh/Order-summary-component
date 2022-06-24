@@ -84,7 +84,7 @@ So suggest me how to do it.
 
 ## Author
 
-- Frontend Mentor - [@@codekesh](https://www.frontendmentor.io/profile/codekesh)
+- Frontend Mentor - [@codekesh](https://www.frontendmentor.io/profile/codekesh)
 - Twitter - [@tulsyan_keshav](https://twitter.com/tulsyan_keshav)
 
 ## Acknowledgments
